@@ -1,6 +1,6 @@
 {
   "name": "algosandds.js",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": " An npm packge which gives the code for the implementation of different Advanced Data Structures.",
   "main": "index.js",
   "scripts": {
