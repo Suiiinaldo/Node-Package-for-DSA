@@ -1,0 +1,11 @@
+{
+  "name": "implemen.js",
+  "version": "1.0.0",
+  "description": " An npm packge which gives the code for the implementation of different Advanced Data Structures.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prakhar Pratap Singh",
+  "license": "ISC"
+}
