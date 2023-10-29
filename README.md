@@ -1,0 +1,1 @@
+This is a one stop solution for all the Sorting and Searching Algos like Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort, Linear Search and Binary Search with also the Implementation of Different Data Structures like Priority Queue, Queues, in JavaScript.
